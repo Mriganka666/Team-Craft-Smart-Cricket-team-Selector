@@ -62,4 +62,19 @@ Ben Stokes,ALL,England,38,50,55,...
 
 ---
 
-> Created with ❤️ by [Mriganka Ghosh]
+## 🙌 Contributing
+
+Pull requests and suggestions are welcome! If you find a bug or have a feature request, feel free to open an issue.
+
+---
+
+## 📄 License
+
+This project is for educational purposes. You are free to use, modify, and enhance it as needed.
+
+---
+
+## 👤 Author
+
+**Mriganka Ghosh**  
+Developer & Project Author  
